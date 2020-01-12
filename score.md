@@ -37,6 +37,19 @@
 >- The way the score has been written seems more like a guide rather than telling exactly what they're doing in their recording. I appreciate having access to do this because it has helped me understand the VCV Rack patch while giving me space to experiment.
 >- I wish there had been more noise in the low end (bass or drums).
 
+<br></br>
 
 <img src="https://i.imgur.com/aox1rQY.png">
+
+<img src="https://i.imgur.com/2dVDhFV.png">
+
+<br></br>
+
+Play around, and make some noise.
+**Have fun! :)**
+
+
+
+
+
 
