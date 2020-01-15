@@ -83,10 +83,22 @@ CHAPTER XVI: THE NEWS OF THE LOST CAPTAIN.
 ### Experimenting with score and modules
 
 > #### Notes
-> Try to make a sampler and sample Julieta Laso "El Pampero"  
+> Try to find a sampler and sample Julieta Laso "El Pampero"  
 > 
 May be the violin from the song?
-(add a clip of the violins, the one to be sampled)   	
+(add a clip of the violins, the one to be sampled) 
+
+* Found a player: https://github.com/cfoulc/cf
+* https://vcvrack.com/plugins
+* I added it to VCV Rack
+* Cut a section of the song with Audition and export it as .wav 
+* Save the .wav file in the extensions folder
+* Add player module to the rack 
+* right click on player and loag sample and choose the saved file
+
+
+
+
 
 > Playing around and got some noise and blips that could be used
 
