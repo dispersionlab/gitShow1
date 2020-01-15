@@ -12,6 +12,9 @@
 > 
 
 ## Reflections
+
+### Listening the the recording
+
 I get so many details listening to it with the headphones.
 
 There are many layers that add up with time.  
@@ -63,17 +66,33 @@ From 00:14-00:16 High pitch sounds, something going super fast, appearing and di
 Jules Verne, 1868: In Search of the Castaways.  
 CHAPTER XVI: THE NEWS OF THE LOST CAPTAIN. 
 ```
-> >[Source][sourceID]
+> >[Source Quote][sourceIDquote]
 
-[sourceID]: https://www.weatheronline.co.uk/reports/wind/The-Pampero.htm "Pampero"
+[sourceIDquote]: https://www.weatheronline.co.uk/reports/wind/The-Pampero.htm "Pampero"
 
-#### Notes
-Try to make a sampler and sample Julieta Laso "El Pampero"
-May be the violin from the song?
-(add a clip of the violins, the one to be sampled)
 
 **Source- El Pampero, Julieta Laso**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tqror89YYXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[Source Song][sourceIDsong]
+
+[sourceIDsong]: https://www.youtube.com/watch?v=Tqror89YYXs" 
+
+### Performing the score	
+
+### Experimenting with score and modules
+
+> #### Notes
+> Try to make a sampler and sample Julieta Laso "El Pampero"  
+> 
+May be the violin from the song?
+(add a clip of the violins, the one to be sampled)   	
+
+> Playing around and got some noise and blips that could be used
+
+> ![Wind and Beings](extensions/windAndBeings.png)
+
+
 
 
 
