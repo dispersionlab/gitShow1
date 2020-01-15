@@ -70,21 +70,28 @@ CHAPTER XVI: THE NEWS OF THE LOST CAPTAIN.
 
 [sourceIDquote]: https://www.weatheronline.co.uk/reports/wind/The-Pampero.htm "Pampero"
 
+I also remember the song "El Pampero" by Julieta Laso, and there is section with violin and guitar. I decide to sample the song. 
 
 **Source- El Pampero, Julieta Laso**
-
-
 [Source Song][sourceIDsong]
 
 [sourceIDsong]: https://www.youtube.com/watch?v=Tqror89YYXs" 
 
 ### Performing the score	
 
+
+
 ### Experimenting with score and modules
 
 > #### Notes
+> > Playing around and got some noise and blips that could be used
+
+> ![Wind and Beings](extensions/windAndBeings.png)
+
+
 > Try to find a sampler and sample Julieta Laso "El Pampero"  
 > 
+
 May be the violin from the song?
 (add a clip of the violins, the one to be sampled) 
 
@@ -96,13 +103,13 @@ May be the violin from the song?
 * Add player module to the rack 
 * right click on player and loag sample and choose the saved file
 
+![Sample player] (extensions/samplePlayer.png)
 
 
 
 
-> Playing around and got some noise and blips that could be used
 
-> ![Wind and Beings](extensions/windAndBeings.png)
+
 
 
 
