@@ -67,6 +67,15 @@ CHAPTER XVI: THE NEWS OF THE LOST CAPTAIN.
 
 [sourceID]: https://www.weatheronline.co.uk/reports/wind/The-Pampero.htm "Pampero"
 
+#### Notes
+Try to make a sampler and sample Julieta Laso "El Pampero"
+May be the violin from the song?
+(add a clip of the violins, the one to be sampled)
+
+**Source- El Pampero, Julieta Laso**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tqror89YYXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
  
