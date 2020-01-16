@@ -79,6 +79,17 @@ I also remember the song "El Pampero" by Julieta Laso, and there is section with
 
 ### Performing the score	
 
+When I open the patch to perform,I realized I need to get some modules for the score to fully work:
+
+* Amalgamated Harmonics
+	* 	Galaxy
+	*  Arpeggiator2
+* Audible Instruments
+	* Branches
+	* Clouds
+
+![Score needs connection- all modules](extensions/scoreNeedConnection.png)
+
 
 
 ### Experimenting with score and modules
