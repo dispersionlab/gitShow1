@@ -103,7 +103,7 @@ May be the violin from the song?
 * Add player module to the rack 
 * right click on player and loag sample and choose the saved file
 
-![Sample player] (extensions/samplePlayer.png)
+![Sample player](extensions/samplePlayer.png)
 
 
 
