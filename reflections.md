@@ -112,9 +112,16 @@ May be the violin from the song?
 * Cut a section of the song with Audition and export it as .wav 
 * Save the .wav file in the extensions folder
 * Add player module to the rack 
-* right click on player and loag sample and choose the saved file
+* right click on player and load sample and choose the saved file
 
-![Sample player](extensions/samplePlayer.png)
+![Sample player](extensions/samplePlayer.png)  
+
+Listen to how it sounds: [Sample Violin][sampleVCVfile]
+
+[sampleVCVfile]: extensions/experimentingSampleViolin.vcv 
+
+
+  
 
 
 
