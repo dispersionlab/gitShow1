@@ -105,8 +105,7 @@ May be the violin from the song?
 
 ![Sample player] (extensions/samplePlayer.png)
 
-and this the sample piece I am using:
-![Sample player] (extensions/elPamperoSample.wav)
+
 
 
 
