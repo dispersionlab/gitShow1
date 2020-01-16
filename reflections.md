@@ -89,8 +89,8 @@ When I open the patch to perform,I realized I need to get some modules for the s
 	* Clouds
 
 ![Score needs connection- all modules](extensions/scoreNeedConnection.png)
-
-
+ 
+Before opening patch.vcv, add those modules to Rack so connections are not lost
 
 ### Experimenting with score and modules
 

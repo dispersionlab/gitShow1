@@ -10,11 +10,11 @@
       "leftModuleId": 2,
       "data": {
         "audio": {
-          "driver": 6,
-          "deviceName": "Speakers (Realtek(R) Audio)",
+          "driver": 5,
+          "deviceName": "4c: ",
           "offset": 0,
           "maxChannels": 8,
-          "sampleRate": 44100,
+          "sampleRate": 48000,
           "blockSize": 256
         }
       },
@@ -31,7 +31,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.0
+          "value": 0.0390005819
         },
         {
           "id": 1,
@@ -65,7 +65,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.372000009
+          "value": 0.677999973
         },
         {
           "id": 1,
@@ -223,7 +223,7 @@
         },
         {
           "id": 2,
-          "value": 4.15000057
+          "value": 3.77200055
         },
         {
           "id": 3,
@@ -266,7 +266,7 @@
       ],
       "data": {
         "format": "wav",
-        "path": "",
+        "path": "/Users/lorenasalome/Documents/DigMediaYorkU/VSL/gitShow1/extensions/recording.wav",
         "incrementPath": true,
         "sampleRate": 44100,
         "depth": 16,
@@ -343,7 +343,7 @@
         },
         {
           "id": 2,
-          "value": -8.0
+          "value": -1.84400094
         },
         {
           "id": 3,
@@ -431,7 +431,7 @@
         },
         {
           "id": 2,
-          "value": 3.35800171
+          "value": -2.60899806
         },
         {
           "id": 3,
@@ -540,7 +540,7 @@
         },
         {
           "id": 2,
-          "value": 1.01800025
+          "value": -3.27499986
         },
         {
           "id": 3,
@@ -585,15 +585,15 @@
         },
         {
           "id": 3,
-          "value": 0.00899999961
+          "value": 0.23999995
         },
         {
           "id": 4,
-          "value": 0.0
+          "value": 0.480000049
         },
         {
           "id": 5,
-          "value": -1.06399989
+          "value": -1.03400064
         },
         {
           "id": 6,
@@ -605,11 +605,11 @@
         },
         {
           "id": 8,
-          "value": 0.00150000001
+          "value": 0.3495
         },
         {
           "id": 9,
-          "value": 0.646500289
+          "value": 0.0735003352
         },
         {
           "id": 10,
@@ -652,7 +652,7 @@
         },
         {
           "id": 2,
-          "value": -1.98800278
+          "value": 4.24899912
         },
         {
           "id": 3,
@@ -718,7 +718,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.604500055
+          "value": 0.226500049
         },
         {
           "id": 1,
@@ -756,7 +756,7 @@
         },
         {
           "id": 2,
-          "value": -8.0
+          "value": -6.52399826
         },
         {
           "id": 3,
