@@ -103,12 +103,14 @@ Before opening patch.vcv, add those modules to Rack so connections are not lost
 > Try to find a sampler and sample Julieta Laso "El Pampero"  
 > 
 
-May be the violin from the song?
+>>> May be the violin from the song?
 (add a clip of the violins, the one to be sampled) 
 
+Steps:
+
 * Found a player: https://github.com/cfoulc/cf
-* https://vcvrack.com/plugins
-* I added it to VCV Rack
+* https://vcvrack.com/plugins, look for cf and add 
+* Update library in VCV Rack
 * Cut a section of the song with Audition and export it as .wav 
 * Save the .wav file in the extensions folder
 * Add player module to the rack 
@@ -119,6 +121,8 @@ May be the violin from the song?
 Listen to how it sounds: [Sample Violin][sampleVCVfile]
 
 [sampleVCVfile]: extensions/experimentingSampleViolin.vcv 
+
+* In order for it to work, you have to have the module cf already installed in VCV Rack and elPamperoSample.wav in extensions
 
 
   
