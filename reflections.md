@@ -92,6 +92,8 @@ When I open the patch to perform,I realized I need to get some modules for the s
  
 Before opening patch.vcv, add those modules to Rack so connections are not lost
 
+
+
 ### Experimenting with score and modules
 
 > #### Notes
@@ -123,6 +125,16 @@ Listen to how it sounds: [Sample Violin][sampleVCVfile]
 [sampleVCVfile]: extensions/experimentingSampleViolin.vcv 
 
 * In order for it to work, you have to have the module cf already installed in VCV Rack and elPamperoSample.wav in extensions
+
+### Adding the sampler to the original score
+
+After finding the sampler and trying to reproduce the score I was given, I decided to add the sampler in that score. To see if I could produce a interesting sound with all those layers of sound and the sample 
+
+I wish I could have reproduced the waves and highways sounds from the original but after many attempts, couldn't make it work. 
+
+Before adding and delting modules I am trying adding the sampler in the module, There is an effect that I like to see how to control 
+
+ 
 
 
   
