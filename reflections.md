@@ -142,6 +142,13 @@ When the violins merge with the theremin
 * The saw from th LFO-1 controls the speed that the sample play
 * The triangular controls de starting point
 
+#### Issues recording the patch
+
+When I put to record the patch, it only records one layer of sound, that is the sampler. 
+
+![Sound I like](extensions/commit6-18pmSaturday.png)
+
+
  
 
 
