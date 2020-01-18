@@ -134,6 +134,14 @@ I wish I could have reproduced the waves and highways sounds from the original b
 
 Before adding and delting modules I am trying adding the sampler in the module, There is an effect that I like to see how to control 
 
+
+When the violins merge with the theremin
+
+![Violin and theremin](extensions/violinAndTheremin.png)
+
+* The saw from th LFO-1 controls the speed that the sample play
+* The triangular controls de starting point
+
  
 
 

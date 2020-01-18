@@ -31,19 +31,19 @@
       "params": [
         {
           "id": 0,
-          "value": 0.996000767
+          "value": 0.990001202
         },
         {
           "id": 1,
-          "value": 0.080610171
+          "value": 0.806102037
         },
         {
           "id": 2,
-          "value": 0.103238285
+          "value": 0.777818501
         },
         {
           "id": 3,
-          "value": 1.01823401
+          "value": 0.742462397
         },
         {
           "id": 4,
@@ -65,15 +65,15 @@
       "params": [
         {
           "id": 0,
-          "value": 0.247499317
+          "value": 0.0120000001
         },
         {
           "id": 1,
-          "value": 0.396000057
+          "value": 0.49050048
         },
         {
           "id": 2,
-          "value": 0.759000003
+          "value": 0.615000188
         },
         {
           "id": 3,
@@ -84,8 +84,10 @@
           "value": 0.369000018
         }
       ],
+      "leftModuleId": 17,
+      "rightModuleId": 18,
       "pos": [
-        38,
+        31,
         1
       ]
     },
@@ -109,7 +111,7 @@
         },
         {
           "id": 3,
-          "value": -3.45000172
+          "value": -1.86000228
         },
         {
           "id": 4,
@@ -147,23 +149,23 @@
       "params": [
         {
           "id": 0,
-          "value": 0.509499848
+          "value": 0.635999978
         },
         {
           "id": 1,
-          "value": 0.0
+          "value": 0.442500114
         },
         {
           "id": 2,
-          "value": 0.375000089
+          "value": 0.770999968
         },
         {
           "id": 3,
-          "value": 0.437499911
+          "value": 0.538500011
         },
         {
           "id": 4,
-          "value": 0.986499906
+          "value": 0.418000042
         },
         {
           "id": 5,
@@ -195,12 +197,13 @@
         }
       ],
       "leftModuleId": 30,
+      "rightModuleId": 4,
       "data": {
         "path": "C:\\dispersion-lab\\gitShow1\\module.js",
         "script": "\t// knobs 0-5 in code correspond to knobs 1-6 on the prototype faceplate\n\t// inputs 0-5 in code correspond to inputs 1-6 on the prototype faceplate\n\t// outputs 0-5 in code correspond to outputs 1-6 on the prototype faceplate\n\nconfig.frameDivider = 1\nconfig.bufferSize = 1\n\nvar phase = 0\nfunction process(block) {\n\t// set pitch  according to knob 0\n\t// Knob ranges from -5 to 5 octaves\n\tvar pitch = block.knobs[0] * 10 - 5\n\t// modulate pitch using input 0 as cv\n\t// Input follows 1V/oct standard\n\tpitch += block.inputs[0][0]\t\t\n\n\t// The relationship between 1V/oct pitch and frequency is `freq = 2^pitch`.\n\n\t// https://vcvrack.com/manual/VoltageStandards.html#pitch-and-frequencies\n\tvar freq = 111.6256\n\tfreq += freq * Math.pow(2, pitch)\n\n\t// manipulate the buffer size of the this module\n\tbufSizeKnob = Math.round(block.knobs[1] * 120)\n\tblock.bufferSize += bufSizeKnob\n\tif (block.inputs[1][0] === 0){\n\t\t// ignore input, use only knob value\n\t} else {\n\t\t// modulate the bufferSize by the sum of input 1 and knob 1\n\t\tblock.bufferSize = block.inputs[1][0] + bufSizeKnob\n\t}\n\n\t// manipulate the frame division\n\tframeDivKnob = Math.round(block.knobs[2] * 32)\n\tframeDivider = config.frameDivider + frameDivKnob\n\n\tif (block.inputs[2][0] === 0){\n\t\t// ignore input 2, use only knob  value\n\t} else {\n\t\t// modulate the frameDivision by the sum of input 2 and knob 2\n\t\tframeDivider = frameDivider + Math.round(block.inputs[2][0] * 4)\n\t}\n\n\t// I *think* block.sampleTime corresponds to the sample-length? anyway, manipulating this results in some satisfying glitch\n\tblock.sampleTime += block.knobs[3] * 10\n\n\tif (block.inputs[3][0] !== 0){\n\t\t// ignore cv input, use only knob 3 value\n\t} else {\n\t\t// modulate sampleTime by adding input 3 as cv\n\t\tblock.sampleTime = block.sampleTime + (block.inputs[3][0] / 22050)\n\n\t\tif (block.inputs[4][0] !== 0){\n\t\t\t// if a cable is connected to input 4, add that value to sampleTime\n\t\t\tblock.sampleTime += block.inputs[4][0] / 100\n\t\t}\n\t}\n\n\t// Set all samples in output buffer\n\tvar deltaPhase = frameDivider * block.sampleTime * freq\n\tfor (var i = 0; i < block.bufferSize; i++) {\n\t\t// Accumulate phase\n\t\tphase += deltaPhase\n\t\t// Wrap phase around range [0, 1]\n\t\tphase %= 1\n\t\t// Convert phase to sine output\n\t\tblock.outputs[0][i] = Math.sin(2 * Math.PI * phase) * 5\n\t}\n}\n"
       },
       "pos": [
-        20,
+        16,
         1
       ]
     },
@@ -220,11 +223,11 @@
         },
         {
           "id": 2,
-          "value": -0.952997267
+          "value": -6.75799751
         },
         {
           "id": 3,
-          "value": 0.585999727
+          "value": 0.372999638
         },
         {
           "id": 4,
@@ -232,16 +235,17 @@
         },
         {
           "id": 5,
-          "value": 0.451000214
+          "value": 0.473050624
         },
         {
           "id": 6,
           "value": 0.358500063
         }
       ],
+      "leftModuleId": 4,
       "pos": [
-        44,
-        0
+        39,
+        1
       ]
     },
     {
@@ -338,7 +342,7 @@
         },
         {
           "id": 2,
-          "value": -4.28299904
+          "value": 0.712000489
         },
         {
           "id": 3,
@@ -425,7 +429,7 @@
         },
         {
           "id": 2,
-          "value": -5.20099831
+          "value": 5.89599657
         },
         {
           "id": 3,
@@ -459,11 +463,11 @@
       "params": [
         {
           "id": 0,
-          "value": 0.0
+          "value": 0.305999964
         },
         {
           "id": 1,
-          "value": 0.666499972
+          "value": 0.328999907
         },
         {
           "id": 2,
@@ -474,6 +478,7 @@
           "value": 0.0
         }
       ],
+      "rightModuleId": 30,
       "data": {
         "modes": [
           false,
@@ -512,9 +517,10 @@
           "value": 1.00424266
         }
       ],
+      "leftModuleId": 29,
       "rightModuleId": 17,
       "pos": [
-        10,
+        6,
         1
       ]
     },
@@ -534,7 +540,7 @@
         },
         {
           "id": 2,
-          "value": 1.20699966
+          "value": 0.613002241
         },
         {
           "id": 3,
@@ -579,31 +585,31 @@
         },
         {
           "id": 3,
-          "value": 0.181499898
+          "value": 0.503999949
         },
         {
           "id": 4,
-          "value": 0.526500106
+          "value": 0.445499003
         },
         {
           "id": 5,
-          "value": -0.613999188
+          "value": 0.32800144
         },
         {
           "id": 6,
-          "value": 0.604499996
+          "value": 0.954000175
         },
         {
           "id": 7,
-          "value": 0.417999774
+          "value": 0.878499866
         },
         {
           "id": 8,
-          "value": 0.3495
+          "value": 0.23849991
         },
         {
           "id": 9,
-          "value": 0.186999962
+          "value": 0.758499682
         },
         {
           "id": 10,
@@ -646,7 +652,7 @@
         },
         {
           "id": 2,
-          "value": -3.17599583
+          "value": -2.71699548
         },
         {
           "id": 3,
@@ -712,7 +718,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.703500271
+          "value": 0.606000364
         },
         {
           "id": 1,
@@ -750,7 +756,7 @@
         },
         {
           "id": 2,
-          "value": 2.15200138
+          "value": 1.04499948
         },
         {
           "id": 3,
@@ -828,15 +834,15 @@
       "params": [
         {
           "id": 0,
-          "value": 2.23500419
+          "value": 3.72000241
         },
         {
           "id": 1,
-          "value": -0.0949982256
+          "value": 0.0250017792
         },
         {
           "id": 2,
-          "value": 0.171000123
+          "value": -0.0579996556
         },
         {
           "id": 3,
@@ -857,10 +863,10 @@
       ],
       "data": {
         "lastPath": "/Users/lorenasalome/Documents/DigMediaYorkU/VSL/gitShow1/extensions/elPamperoSample.wav",
-        "oscstate": 0
+        "oscstate": 1
       },
       "pos": [
-        57,
+        47,
         0
       ]
     },
@@ -883,7 +889,7 @@
         "merge": false
       },
       "pos": [
-        86,
+        57,
         0
       ]
     }
@@ -946,28 +952,12 @@
       "color": "#c9b70e"
     },
     {
-      "id": 337,
-      "outputModuleId": 4,
-      "outputId": 1,
-      "inputModuleId": 33,
-      "inputId": 7,
-      "color": "#c9b70e"
-    },
-    {
       "id": 384,
       "outputModuleId": 33,
       "outputId": 1,
       "inputModuleId": 2,
       "inputId": 2,
       "color": "#0986ad"
-    },
-    {
-      "id": 389,
-      "outputModuleId": 34,
-      "outputId": 2,
-      "inputModuleId": 33,
-      "inputId": 9,
-      "color": "#c9b70e"
     },
     {
       "id": 390,
@@ -1130,14 +1120,6 @@
       "color": "#c91847"
     },
     {
-      "id": 448,
-      "outputModuleId": 39,
-      "outputId": 3,
-      "inputModuleId": 33,
-      "inputId": 8,
-      "color": "#c91847"
-    },
-    {
       "id": 449,
       "outputModuleId": 27,
       "outputId": 2,
@@ -1240,14 +1222,6 @@
       "inputModuleId": 4,
       "inputId": 0,
       "color": "#0c8e15"
-    },
-    {
-      "id": 518,
-      "outputModuleId": 30,
-      "outputId": 1,
-      "inputModuleId": 4,
-      "inputId": 1,
-      "color": "#c91847"
     },
     {
       "id": 520,
@@ -1370,14 +1344,6 @@
       "color": "#0986ad"
     },
     {
-      "id": 560,
-      "outputModuleId": 55,
-      "outputId": 1,
-      "inputModuleId": 56,
-      "inputId": 2,
-      "color": "#0986ad"
-    },
-    {
       "id": 559,
       "outputModuleId": 55,
       "outputId": 0,
@@ -1394,34 +1360,10 @@
       "color": "#c91847"
     },
     {
-      "id": 295,
-      "outputModuleId": 18,
-      "outputId": 3,
-      "inputModuleId": 55,
-      "inputId": 5,
-      "color": "#c91847"
-    },
-    {
       "id": 399,
       "outputModuleId": 27,
       "outputId": 3,
       "inputModuleId": 35,
-      "inputId": 0,
-      "color": "#0986ad"
-    },
-    {
-      "id": 352,
-      "outputModuleId": 27,
-      "outputId": 3,
-      "inputModuleId": 55,
-      "inputId": 6,
-      "color": "#0986ad"
-    },
-    {
-      "id": 388,
-      "outputModuleId": 34,
-      "outputId": 3,
-      "inputModuleId": 33,
       "inputId": 0,
       "color": "#0986ad"
     },
@@ -1448,6 +1390,70 @@
       "inputModuleId": 55,
       "inputId": 2,
       "color": "#0c8e15"
+    },
+    {
+      "id": 352,
+      "outputModuleId": 27,
+      "outputId": 3,
+      "inputModuleId": 55,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 518,
+      "outputModuleId": 30,
+      "outputId": 1,
+      "inputModuleId": 4,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 581,
+      "outputModuleId": 4,
+      "outputId": 0,
+      "inputModuleId": 55,
+      "inputId": 5,
+      "color": "#c91847"
+    },
+    {
+      "id": 388,
+      "outputModuleId": 34,
+      "outputId": 3,
+      "inputModuleId": 33,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 560,
+      "outputModuleId": 55,
+      "outputId": 1,
+      "inputModuleId": 56,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 448,
+      "outputModuleId": 39,
+      "outputId": 3,
+      "inputModuleId": 33,
+      "inputId": 8,
+      "color": "#c91847"
+    },
+    {
+      "id": 389,
+      "outputModuleId": 34,
+      "outputId": 2,
+      "inputModuleId": 33,
+      "inputId": 9,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 584,
+      "outputModuleId": 55,
+      "outputId": 1,
+      "inputModuleId": 33,
+      "inputId": 4,
+      "color": "#c9b70e"
     }
   ]
 }
