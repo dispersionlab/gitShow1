@@ -10,7 +10,7 @@
       "data": {
         "audio": {
           "driver": 5,
-          "offset": 1749229669,
+          "offset": 0,
           "maxChannels": 8,
           "sampleRate": 48000,
           "blockSize": 256
@@ -150,7 +150,7 @@
         },
         {
           "id": 1,
-          "value": 0.225000143
+          "value": 0.230999976
         },
         {
           "id": 2,
@@ -1048,14 +1048,6 @@
       "color": "#c91847"
     },
     {
-      "id": 572,
-      "outputModuleId": 56,
-      "outputId": 0,
-      "inputModuleId": 2,
-      "inputId": 1,
-      "color": "#0986ad"
-    },
-    {
       "id": 452,
       "outputModuleId": 27,
       "outputId": 0,
@@ -1094,6 +1086,14 @@
       "inputModuleId": 22,
       "inputId": 3,
       "color": "#0c8e15"
+    },
+    {
+      "id": 572,
+      "outputModuleId": 56,
+      "outputId": 0,
+      "inputModuleId": 2,
+      "inputId": 1,
+      "color": "#0986ad"
     }
   ]
 }

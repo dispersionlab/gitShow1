@@ -148,6 +148,19 @@ When I put to record the patch, it only records one layer of sound, that is the 
 
 ![Sound I like](extensions/commit6-18pmSaturday.png)
 
+After many attempts to record all the modules combined, I am going to start the module from scratch to see if it works or what I get
+
+
+
+While experimenting and adding modules, there is a rythm that I like, I recorded it and I might use it as a sample
+It still reminds me of a distorted Hitchcock film. 
+
+![Sample it] (extensions/useAsSample.png)
+
+It needs noise and some of the things form the other patch that I like.
+
+
+
 
  
 
