@@ -63,15 +63,15 @@
       "params": [
         {
           "id": 0,
-          "value": 0.687000275
+          "value": 0.468000203
         },
         {
           "id": 1,
-          "value": 0.349500418
+          "value": 0.405000627
         },
         {
           "id": 2,
-          "value": 0.436500192
+          "value": 0.580501378
         },
         {
           "id": 3,
@@ -79,10 +79,11 @@
         },
         {
           "id": 4,
-          "value": 0.441000074
+          "value": 0.2264999
         }
       ],
       "leftModuleId": 7,
+      "rightModuleId": 18,
       "pos": [
         32,
         0
@@ -154,15 +155,15 @@
         },
         {
           "id": 2,
-          "value": -4.24700594
+          "value": 4.06899738
         },
         {
           "id": 3,
-          "value": 0.372999638
+          "value": 0.737499714
         },
         {
           "id": 4,
-          "value": 0.203999996
+          "value": 0.599999964
         },
         {
           "id": 5,
@@ -173,9 +174,9 @@
           "value": 0.358500063
         }
       ],
-      "rightModuleId": 55,
+      "leftModuleId": 4,
       "pos": [
-        47,
+        40,
         0
       ]
     },
@@ -338,19 +339,19 @@
       "params": [
         {
           "id": 0,
-          "value": 2.95500565
+          "value": 6.33999729
         },
         {
           "id": 1,
-          "value": -0.0349986255
+          "value": -0.169998944
         },
         {
           "id": 2,
-          "value": -0.48399958
+          "value": 0.10700044
         },
         {
           "id": 3,
-          "value": 0.0240005348
+          "value": -0.0209994633
         },
         {
           "id": 4,
@@ -365,14 +366,12 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 18,
-      "rightModuleId": 56,
       "data": {
         "lastPath": "/Users/lorenasalome/Documents/DigMediaYorkU/VSL/gitShow1/extensions/elPamperoSample.wav",
         "oscstate": 0
       },
       "pos": [
-        57,
+        52,
         0
       ]
     },
@@ -391,7 +390,6 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 55,
       "rightModuleId": 2,
       "data": {
         "merge": false
@@ -459,11 +457,11 @@
         },
         {
           "id": 2,
-          "value": 2.06201243
+          "value": -0.556986749
         },
         {
           "id": 3,
-          "value": 0.687000036
+          "value": 0.4815
         },
         {
           "id": 4,
@@ -501,15 +499,15 @@
         },
         {
           "id": 2,
-          "value": 0.388004959
+          "value": 0.0100090317
         },
         {
           "id": 3,
-          "value": 0.161499754
+          "value": 0.530499697
         },
         {
           "id": 4,
-          "value": 0.77850008
+          "value": 0.480000108
         },
         {
           "id": 5,
@@ -517,7 +515,7 @@
         },
         {
           "id": 6,
-          "value": 0.0
+          "value": 0.248999998
         }
       ],
       "leftModuleId": 27,
@@ -543,7 +541,7 @@
         },
         {
           "id": 2,
-          "value": -2.06000447
+          "value": 1.85499585
         },
         {
           "id": 3,
@@ -661,38 +659,6 @@
       "inputModuleId": 56,
       "inputId": 0,
       "color": "#c91847"
-    },
-    {
-      "id": 579,
-      "outputModuleId": 18,
-      "outputId": 2,
-      "inputModuleId": 55,
-      "inputId": 2,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 560,
-      "outputModuleId": 55,
-      "outputId": 1,
-      "inputModuleId": 56,
-      "inputId": 2,
-      "color": "#0986ad"
-    },
-    {
-      "id": 559,
-      "outputModuleId": 55,
-      "outputId": 0,
-      "inputModuleId": 56,
-      "inputId": 4,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 584,
-      "outputModuleId": 55,
-      "outputId": 1,
-      "inputModuleId": 56,
-      "inputId": 1,
-      "color": "#c9b70e"
     },
     {
       "id": 445,
@@ -871,14 +837,6 @@
       "color": "#0c8e15"
     },
     {
-      "id": 578,
-      "outputModuleId": 18,
-      "outputId": 3,
-      "inputModuleId": 55,
-      "inputId": 1,
-      "color": "#c9b70e"
-    },
-    {
       "id": 653,
       "outputModuleId": 34,
       "outputId": 1,
@@ -890,17 +848,49 @@
       "id": 652,
       "outputModuleId": 4,
       "outputId": 0,
-      "inputModuleId": 56,
-      "inputId": 3,
+      "inputModuleId": 2,
+      "inputId": 2,
       "color": "#0986ad"
     },
     {
-      "id": 655,
-      "outputModuleId": 4,
+      "id": 657,
+      "outputModuleId": 27,
       "outputId": 0,
       "inputModuleId": 55,
-      "inputId": 3,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 659,
+      "outputModuleId": 4,
+      "outputId": 0,
+      "inputModuleId": 56,
+      "inputId": 1,
       "color": "#0986ad"
+    },
+    {
+      "id": 661,
+      "outputModuleId": 55,
+      "outputId": 0,
+      "inputModuleId": 56,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 662,
+      "outputModuleId": 55,
+      "outputId": 1,
+      "inputModuleId": 56,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 660,
+      "outputModuleId": 4,
+      "outputId": 1,
+      "inputModuleId": 55,
+      "inputId": 6,
+      "color": "#0c8e15"
     }
   ]
 }
