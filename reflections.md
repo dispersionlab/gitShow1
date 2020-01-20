@@ -79,7 +79,7 @@ I also remember the song "El Pampero" by Julieta Laso, and there is section with
 
 ### Performing the score	
 
-When I open the patch to perform,I realized I need to get some modules for the score to fully work:
+Before opening patch.vcv, add those modules to Rack 
 
 * Amalgamated Harmonics
 	* 	Galaxy
@@ -90,10 +90,6 @@ When I open the patch to perform,I realized I need to get some modules for the s
 
 ![Score needs connection- all modules](extensions/scoreNeedConnection.png)
  
-Before opening patch.vcv, add those modules to Rack so connections are not lost
-
-
-
 ### Experimenting with score and modules
 
 > #### Notes
@@ -158,6 +154,23 @@ It still reminds me of a distorted Hitchcock film.
 ![Sample it] (extensions/useAsSample.png)
 
 It needs noise and some of the things form the other patch that I like.
+
+## Final Score
+
+![Recording #9] (extensions/recording9.png)
+
+Asks when fear is going, 
+asks when fear is going,
+asks when fear is going, 
+Asks when fear is going to diguise
+
+For this patch:
+
+* Add cf plugin https://vcvrack.com/plugins, look for cf and add Player module
+* Add the module Mverb
+* In Player, right click and load the file elPamperoSample.wav, it is in extensions/elPamperoSample.wav
+
+
 
 
 
