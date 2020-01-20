@@ -157,7 +157,7 @@ It needs noise and some of the things form the other patch that I like.
 
 ## Final Score
 
-![Recording #9] (extensions/recording9.png)
+![Recording 9] (extensions/windAndVoices.png)
 
 Asks when fear is going, 
 asks when fear is going,
