@@ -151,13 +151,13 @@ After many attempts to record all the modules combined, I am going to start the 
 While experimenting and adding modules, there is a rythm that I like, I recorded it and I might use it as a sample
 It still reminds me of a distorted Hitchcock film. 
 
-![Sample it] (extensions/useAsSample.png)
+![Sample it](extensions/useAsSample.png)
 
 It needs noise and some of the things form the other patch that I like.
 
 ## Final Score
 
-![Recording 9] (extensions/windAndVoices.png)
+![Recording 9](extensions/windAndVoices.png)
 
 Asks when fear is going, 
 asks when fear is going,
