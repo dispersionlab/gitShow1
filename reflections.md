@@ -159,10 +159,13 @@ It needs noise and some of the things form the other patch that I like.
 
 ![Recording 9](extensions/windAndVoices.png)
 
-Asks when fear is going, 
+```
+"Asks when fear is going, 
 asks when fear is going,
 asks when fear is going, 
-Asks when fear is going to diguise
+Asks when fear is going to diguise"
+El Pampero, Julieta Laso
+```
 
 For this patch:
 
