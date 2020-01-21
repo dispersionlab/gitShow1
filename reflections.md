@@ -174,6 +174,14 @@ For this patch:
 * In Player, right click and load the file elPamperoSample.wav, it is in extensions/elPamperoSample.wav
 
 
+```
+*** Important note ***
+the mverb module crash on my comuter. I changed it for:
+* Spring reverb 
+* Slew limiter
+```
+
+![Last patch] (extensions/lastPatch.png)
 
 
 
