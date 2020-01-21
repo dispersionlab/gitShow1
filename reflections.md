@@ -181,7 +181,7 @@ the mverb module crash on my comuter. I changed it for:
 * Slew limiter
 ```
 
-![Last patch] (extensions/lastPatch.png)
+![Last patch](extensions/lastPatch.png)
 
 
 
