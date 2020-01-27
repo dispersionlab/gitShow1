@@ -206,10 +206,9 @@ the mverb module crash on my comuter. I changed it for:
 
 ---
 
->***Comment_RacelarHo***
+>***Comment_week03_RacelarHo***
 
->>* The homophony here consists of the dialling-signal-like sounds, and it reminds me of the Electronic Music of the 1960s, especially the concept of Cybernetics.
->>* Compared with the general Experimental Music, this work avoids the regular forms, such as forma sonata, variation form and rondo form, but employs ritornello form with more stretchable amplitudes and intensities. Reference: the 59 - 69 syllable (the epilogue of Episode 6) of Bach's Violin Concerto in E Major. 
+>>* As the fundamental tone of the song, the song, El Pampero, outlines a contextual scene of the classical Latin music of Basa Nova and Jazz. The mixing sound with white noise and the sample song presents a retro style of the 70s.  
 
 ---
 >***Inspiration_week02_RacelarHo***
