@@ -211,10 +211,10 @@ the mverb module crash on my comuter. I changed it for:
 >>* As the fundamental tone of the song, the song, El Pampero, outlines a contextual scene of the classical Latin music of Basa Nova and Jazz. The mixing sound with white noise and the sample song presents a retro style of the 70s.  
 
 ---
->***Inspiration_week02_RacelarHo***
+>***Inspiration_week03_RacelarHo***
 
->>* I'm going to inherit the tone principle here as the Music Bed of the new sound and continue the ritornello form, especially Bach's work I mentioned upon.
->>* In the next version, I will supply additional tones, such as female voice, to abundant in the musical texture, and also reduce the volumes of the overfrequency pitches.   
+>>* I'm going to inherit the composing strategy of employing the read-made sample sound with the distinctive cultural symbol. Still, I plan to reference the composing work by Qigang Chen and Portishead.
+>>* In the next version, I will supply additional tones, such as the sound of classical Cantonese opera, to abundant in the musical texture, and also add more vabiables to the song.   
  
 ---
 
