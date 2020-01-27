@@ -202,7 +202,7 @@ the mverb module crash on my comuter. I changed it for:
 >>* Bit Depth: 16-bit
 >>* Format: Waveform Audio 16-bit Integer 
 >>
->>This patch consists of one tone principle which has low-frequency tones with scratchy sound of electronics. It consists of four parts with two sets of contrasted representation: Lengthen vs Shorten, Shattered vs Proceed. 
+>>This patch consists of one basic tone principle and one sampled song. The whole spectrum of the sound employs the mixing manner of repeating the clip of the sampled song, distorting and twisting the tone principle, and altering different parts of the music wandering between D# to F#. The extreme contrast between D# and F# tone presents and weaves an unusual musical texture to the sampled song. 
 
 ---
 
