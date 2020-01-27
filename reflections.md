@@ -183,7 +183,60 @@ the mverb module crash on my comuter. I changed it for:
 
 ![Last patch](extensions/lastPatch.png)
 
+---
+------
 
+## Reflection of Last Patch_week02
+![Last Patch_SoundSegmentation_week02](https://66.media.tumblr.com/f1a2f1d106555ecff5c7cba60eeb1162/f02fd82fa78d6148-28/s1280x1920/220de0bcba74a2a1aca428fcca751e40f0001e53.png)
+
+------
+
+**Analysis of Sound Segmentation**
+
+
+>***Sound Info***
+
+>>* Duration: 1:53.870
+>>* Sample Rate: 44100 Hz
+>>* Channels: Stereo
+>>* Bit Depth: 16-bit
+>>* Format: Waveform Audio 16-bit Integer 
+>>
+>>This patch consists of one tone principle which has low-frequency tones with scratchy sound of electronics. It consists of four parts with two sets of contrasted representation: Lengthen vs Shorten, Shattered vs Proceed. 
+
+---
+
+>***Comment_RacelarHo***
+
+>>* The homophony here consists of the dialling-signal-like sounds, and it reminds me of the Electronic Music of the 1960s, especially the concept of Cybernetics.
+>>* Compared with the general Experimental Music, this work avoids the regular forms, such as forma sonata, variation form and rondo form, but employs ritornello form with more stretchable amplitudes and intensities. Reference: the 59 - 69 syllable (the epilogue of Episode 6) of Bach's Violin Concerto in E Major. 
+
+---
+>***Inspiration_week02_RacelarHo***
+
+>>* I'm going to inherit the tone principle here as the Music Bed of the new sound and continue the ritornello form, especially Bach's work I mentioned upon.
+>>* In the next version, I will supply additional tones, such as female voice, to abundant in the musical texture, and also reduce the volumes of the overfrequency pitches.   
+ 
+---
+
+**Initial Sound Segmentations_Week02**
+
+Time  | Description  | Sound Info
+------------- | ------------- | -------------
+0:00.000 ~ 0:20.000 | tone principle 01 | low-frequency tone with a mixing tone of white noises and the clip of "El Pampero" by Julieta Laso.
+0:20.000 ~ 0:22.000 | transient period | low-frequency tone with loudly white noise.
+0:22.000 ~ 0:26.000 | tone principle 01 | low-frequency tone with a mixing tone of white noises and the clip of "El Pampero" by Julieta Laso.
+0:26.100 ~ 0:28.00 | transient period | low-frequency tone with loudly white noise.
+0:28.000 ~ 0:31.500 | tone principle 02 | The singer's vocal starts mixed with loudly white noise.
+0:31.000 ~ 0:35.000 | the clip of sampled song(repeat_01) | The clip of a sampled song with lossless sound starts playing. 
+0:35.000 ~ 0:37.000 | the clip of sampled song(repeat_02) | The clip of a sampled song with lossless sound starts playing. 
+0:37.000 ~ 0:40.000 | the clip of sampled song(repeat_03) | The clip of a sampled song with lossless sound starts playing. 
+0:40:000 ~ 0:43.000 | the clip of sampled song(repeat_04) | The clip of a sampled song with lossless sound starts playing. 
+0:43.000 ~ 0:45.328 | the clip of sampled song(repeat_05) | The clip of a sampled song with lossless sound starts playing. 
+0:45.328 ~ 1:09.00 | tone principle 03 x 3 | low-frequency tone with a mixing tone of super loudly white noises and the clip of "El Pampero" by Julieta Laso.
+1:09.00 ~ 1:41.899 | tone principle 04 | low-frequency and twisting tone with super loudly white noises and the clip of "El Pampero" by Julieta Laso from C# drops to D#.
+1:41.899 ~ 1:46.450 | transient period  | D# tone, the background music of the song is nearly unhearable.
+1:46.450 ~ 1:53.870 | tone principle 05  |F#B tone with extreme distorting detonation and pitches.
 
 
  
