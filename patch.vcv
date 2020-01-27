@@ -36,11 +36,11 @@
         },
         {
           "id": 1,
-          "value": 0.727396846
+          "value": 0.667999804
         },
         {
           "id": 2,
-          "value": 0.151899606
+          "value": 0.368274301
         },
         {
           "id": 3,
@@ -70,7 +70,7 @@
         },
         {
           "id": 1,
-          "value": 0.27045393
+          "value": 0.300453931
         },
         {
           "id": 2,
@@ -82,7 +82,7 @@
         },
         {
           "id": 4,
-          "value": 0.492525756
+          "value": 0.630525827
         }
       ],
       "leftModuleId": 70,
@@ -186,19 +186,19 @@
       "params": [
         {
           "id": 0,
-          "value": 0.999397099
+          "value": 0.11444962
         },
         {
           "id": 1,
-          "value": 0.606517076
+          "value": 0.404034317
         },
         {
           "id": 2,
-          "value": 0.896682441
+          "value": 0.991832852
         },
         {
           "id": 3,
-          "value": 0.377094269
+          "value": 0.952884495
         }
       ],
       "leftModuleId": 44,
@@ -216,19 +216,19 @@
       "params": [
         {
           "id": 0,
-          "value": 0.316423357
+          "value": 0.998070955
         },
         {
           "id": 1,
-          "value": 0.414828002
+          "value": 0.117635489
         },
         {
           "id": 2,
-          "value": 0.3561185
+          "value": 0.374174058
         },
         {
           "id": 3,
-          "value": 0.480249166
+          "value": 0.59631139
         }
       ],
       "leftModuleId": 27,
@@ -598,7 +598,7 @@
       "leftModuleId": 50,
       "rightModuleId": 57,
       "data": {
-        "lastPath": "/Users/RAC.H/Desktop/Triblet_a3_dry.wav",
+        "lastPath": "/Users/RAC.H/Desktop/Music bed dark deep bells resonant reverb_BLASTWAVEFX_00883.wav",
         "oscstate": 1
       },
       "pos": [
@@ -797,7 +797,7 @@
       "leftModuleId": 53,
       "rightModuleId": 54,
       "data": {
-        "lastPath": "/Users/RAC.H/Desktop/S_Gong_Loop90_4b_dry.wav",
+        "lastPath": "/Users/RAC.H/Desktop/RAD_TEXTURE_EDT_01.wav",
         "oscstate": 1
       },
       "pos": [
@@ -1131,19 +1131,19 @@
       "params": [
         {
           "id": 0,
-          "value": 8.78538322
+          "value": 0.0
         },
         {
           "id": 1,
-          "value": 1.45796871
+          "value": 0.0
         },
         {
           "id": 2,
-          "value": -0.396988392
+          "value": 0.0
         },
         {
           "id": 3,
-          "value": -0.275586545
+          "value": 0.0
         },
         {
           "id": 4,
@@ -1161,7 +1161,7 @@
       "leftModuleId": 64,
       "rightModuleId": 79,
       "data": {
-        "lastPath": "/Users/RAC.H/Desktop/GHOSTS Atmosphere Green Lady Poison.LR.wav",
+        "lastPath": "/Users/RAC.H/Desktop/Breathies.wav",
         "oscstate": 1
       },
       "pos": [
@@ -1211,55 +1211,55 @@
       "params": [
         {
           "id": 0,
-          "value": 0.283820271
+          "value": 0.223995328
         },
         {
           "id": 1,
-          "value": 0.949946284
+          "value": 0.730042458
         },
         {
           "id": 2,
-          "value": 0.489771873
+          "value": 0.345943332
         },
         {
           "id": 3,
-          "value": 7.53898668
+          "value": 4.81325674
         },
         {
           "id": 4,
-          "value": 1.65121794
+          "value": 0.304737091
         },
         {
           "id": 5,
-          "value": 0.323180676
+          "value": 0.562124491
         },
         {
           "id": 6,
-          "value": 4.7984128
+          "value": 2.59988832
         },
         {
           "id": 7,
-          "value": 0.214717925
+          "value": 0.113908604
         },
         {
           "id": 8,
-          "value": 8.4138298
+          "value": 5.61753988
         },
         {
           "id": 9,
-          "value": 5.4406538
+          "value": 9.67692471
         },
         {
           "id": 10,
-          "value": 0.895392776
+          "value": 0.228878915
         },
         {
           "id": 11,
-          "value": 0.084431231
+          "value": 0.156818509
         },
         {
           "id": 12,
-          "value": 12.5377903
+          "value": 15.3856106
         },
         {
           "id": 13,
@@ -1271,7 +1271,7 @@
         },
         {
           "id": 15,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 16,
@@ -1279,51 +1279,51 @@
         },
         {
           "id": 17,
-          "value": -0.0157263279
+          "value": -0.199244618
         },
         {
           "id": 18,
-          "value": 0.734132767
+          "value": 0.371198297
         },
         {
           "id": 19,
-          "value": 0.387388587
+          "value": -0.843751073
         },
         {
           "id": 20,
-          "value": 0.672585368
+          "value": -0.0331143141
         },
         {
           "id": 21,
-          "value": 0.13062489
+          "value": -0.272983551
         },
         {
           "id": 22,
-          "value": -0.802109957
+          "value": -0.657672644
         },
         {
           "id": 23,
-          "value": -0.0570925474
+          "value": -0.165836453
         },
         {
           "id": 24,
-          "value": -0.0664081573
+          "value": -0.378734708
         },
         {
           "id": 25,
-          "value": 0.766958714
+          "value": 0.514273643
         },
         {
           "id": 26,
-          "value": 0.751300335
+          "value": 0.739134908
         },
         {
           "id": 27,
-          "value": 0.520629406
+          "value": 0.811167359
         },
         {
           "id": 28,
-          "value": 0.707934499
+          "value": 0.236878991
         },
         {
           "id": 29,
@@ -1338,7 +1338,7 @@
       "rightModuleId": 80,
       "data": {
         "frozen": false,
-        "freezeToggle": false,
+        "freezeToggle": true,
         "panelStyle": 0,
         "tuned": 0,
         "diffuseInput": 1,
@@ -1494,6 +1494,7 @@
       "version": "1.0.0",
       "model": "Blank4HP",
       "params": [],
+      "leftModuleId": 103,
       "rightModuleId": 70,
       "style": 0.0,
       "pos": [
@@ -1594,7 +1595,7 @@
         },
         {
           "id": 1,
-          "value": 0.0
+          "value": -1.37999988
         },
         {
           "id": 2,
@@ -1636,35 +1637,35 @@
       "params": [
         {
           "id": 0,
-          "value": 0.713540852
+          "value": 0.406191468
         },
         {
           "id": 1,
-          "value": 0.419600725
+          "value": 0.816937745
         },
         {
           "id": 2,
-          "value": 0.766311765
+          "value": 0.690504849
         },
         {
           "id": 3,
-          "value": 0.832884908
+          "value": 0.907927394
         },
         {
           "id": 4,
-          "value": 0.326222897
+          "value": 0.224343956
         },
         {
           "id": 5,
-          "value": 0.642826915
+          "value": 0.128118277
         },
         {
           "id": 6,
-          "value": 1.0
+          "value": 4.0
         },
         {
           "id": 7,
-          "value": 0.208538592
+          "value": 0.822661698
         },
         {
           "id": 8,
@@ -1704,23 +1705,23 @@
       "params": [
         {
           "id": 0,
-          "value": 1.52374446
+          "value": 1.0
         },
         {
           "id": 1,
-          "value": 1.4078418
+          "value": 1.0
         },
         {
           "id": 2,
-          "value": 1.21122718
+          "value": 1.0
         },
         {
           "id": 3,
-          "value": 1.07037926
+          "value": 0.355118603
         },
         {
           "id": 4,
-          "value": 0.929909527
+          "value": 1.0
         }
       ],
       "leftModuleId": 85,
@@ -1737,23 +1738,23 @@
       "params": [
         {
           "id": 0,
-          "value": 1.14450407
+          "value": 0.86693716
         },
         {
           "id": 1,
-          "value": 0.3040272
+          "value": 0.459395587
         },
         {
           "id": 2,
-          "value": 1.3183552
+          "value": 0.260613769
         },
         {
           "id": 3,
-          "value": 1.33906424
+          "value": 0.702356756
         },
         {
           "id": 4,
-          "value": 0.435517281
+          "value": 0.772824585
         }
       ],
       "leftModuleId": 58,
@@ -1771,23 +1772,23 @@
       "params": [
         {
           "id": 0,
-          "value": 1.00906742
+          "value": 1.25136113
         },
         {
           "id": 1,
-          "value": 0.394774944
+          "value": 0.473162442
         },
         {
           "id": 2,
-          "value": 1.16057873
+          "value": 0.649287283
         },
         {
           "id": 3,
-          "value": 1.40072238
+          "value": 0.384972513
         },
         {
           "id": 4,
-          "value": 0.606742978
+          "value": 0.670439124
         }
       ],
       "leftModuleId": 88,
@@ -1840,7 +1841,7 @@
         },
         {
           "id": 9,
-          "value": 8.88271141
+          "value": 9.34771061
         },
         {
           "id": 10,
@@ -1924,7 +1925,7 @@
         },
         {
           "id": 30,
-          "value": 1.0
+          "value": 0.0
         }
       ],
       "leftModuleId": 96,
@@ -1933,7 +1934,7 @@
         "freezeToggle": true,
         "panelStyle": 0,
         "tuned": 1,
-        "diffuseInput": 1,
+        "diffuseInput": 0,
         "preDelayCVSens": 1,
         "inputSensitivity": 0,
         "outputSaturation": 1
@@ -1951,23 +1952,23 @@
       "params": [
         {
           "id": 0,
-          "value": 0.451143652
+          "value": 0.285538316
         },
         {
           "id": 1,
-          "value": 0.48499167
+          "value": 0.495786011
         },
         {
           "id": 2,
-          "value": 0.632498741
+          "value": 0.819898009
         },
         {
           "id": 3,
-          "value": 0.0634306073
+          "value": 0.0538982153
         }
       ],
       "pos": [
-        71,
+        72,
         4
       ]
     },
@@ -1979,35 +1980,35 @@
       "params": [
         {
           "id": 0,
-          "value": 0.830690563
+          "value": 0.804359734
         },
         {
           "id": 1,
-          "value": 0.742675126
+          "value": 0.00884723663
         },
         {
           "id": 2,
-          "value": 0.921096444
+          "value": 0.178016484
         },
         {
           "id": 3,
-          "value": 0.210574269
+          "value": 0.257691443
         },
         {
           "id": 4,
-          "value": 0.313362002
+          "value": 0.588623881
         },
         {
           "id": 5,
-          "value": 0.181190491
+          "value": -0.0686781406
         },
         {
           "id": 6,
-          "value": 0.0
+          "value": 5.0
         },
         {
           "id": 7,
-          "value": 0.645296335
+          "value": 0.817166507
         },
         {
           "id": 8,
@@ -2037,6 +2038,231 @@
       "pos": [
         47,
         0
+      ]
+    },
+    {
+      "id": 97,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "VCMixer",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.330543995
+        },
+        {
+          "id": 1,
+          "value": 1.41421354
+        },
+        {
+          "id": 2,
+          "value": 1.41421354
+        },
+        {
+          "id": 3,
+          "value": 0.99333477
+        },
+        {
+          "id": 4,
+          "value": 0.206998765
+        }
+      ],
+      "leftModuleId": 104,
+      "pos": [
+        47,
+        4
+      ]
+    },
+    {
+      "id": 100,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "VCMixer",
+      "params": [
+        {
+          "id": 0,
+          "value": 2.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 1.41421354
+        },
+        {
+          "id": 4,
+          "value": 1.41421354
+        }
+      ],
+      "rightModuleId": 104,
+      "pos": [
+        31,
+        4
+      ]
+    },
+    {
+      "id": 103,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "PLAYER",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 107,
+      "rightModuleId": 78,
+      "data": {
+        "lastPath": "/Users/RAC.H/Desktop/AutumnMoonOvertheCalmLak_C1.wav",
+        "oscstate": 1
+      },
+      "pos": [
+        31,
+        3
+      ]
+    },
+    {
+      "id": 104,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "MONO",
+      "params": [
+        {
+          "id": 0,
+          "value": -0.735561371
+        },
+        {
+          "id": 1,
+          "value": 10.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 100,
+      "rightModuleId": 97,
+      "data": {
+        "solostate": 1,
+        "onstate": 1
+      },
+      "pos": [
+        41,
+        4
+      ]
+    },
+    {
+      "id": 105,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "MONO",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.413999975
+        },
+        {
+          "id": 1,
+          "value": 4.87000084
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 106,
+      "data": {
+        "solostate": 0,
+        "onstate": 1
+      },
+      "pos": [
+        126,
+        4
+      ]
+    },
+    {
+      "id": 106,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "VCMixer",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.88209426
+        },
+        {
+          "id": 1,
+          "value": 0.861507535
+        },
+        {
+          "id": 2,
+          "value": 1.20612407
+        },
+        {
+          "id": 3,
+          "value": 0.782930791
+        },
+        {
+          "id": 4,
+          "value": 1.21530592
+        }
+      ],
+      "leftModuleId": 105,
+      "pos": [
+        132,
+        4
+      ]
+    },
+    {
+      "id": 107,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "Notes",
+      "params": [],
+      "rightModuleId": 103,
+      "text": "Autumn Moon Over the Calm Lak-C#1:\n\n- Language: Cantonese Opera\n- Singer: Hung Sin-nui\n- Lyrics:\nIt is common acting like a buffoon while getting drunk,\n\nSeek for a “kindred spirit” and “soul mate” while wandering amongst nature.\n \n ",
+      "pos": [
+        15,
+        3
       ]
     }
   ],
@@ -2194,30 +2420,6 @@
       "color": "#c91847"
     },
     {
-      "id": 497,
-      "outputModuleId": 63,
-      "outputId": 0,
-      "inputModuleId": 65,
-      "inputId": 0,
-      "color": "#0c8e15"
-    },
-    {
-      "id": 503,
-      "outputModuleId": 65,
-      "outputId": 1,
-      "inputModuleId": 64,
-      "inputId": 4,
-      "color": "#c91847"
-    },
-    {
-      "id": 506,
-      "outputModuleId": 65,
-      "outputId": 0,
-      "inputModuleId": 64,
-      "inputId": 3,
-      "color": "#0c8e15"
-    },
-    {
       "id": 516,
       "outputModuleId": 87,
       "outputId": 0,
@@ -2280,22 +2482,6 @@
       "inputModuleId": 64,
       "inputId": 2,
       "color": "#0986ad"
-    },
-    {
-      "id": 500,
-      "outputModuleId": 64,
-      "outputId": 0,
-      "inputModuleId": 58,
-      "inputId": 1,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 501,
-      "outputModuleId": 64,
-      "outputId": 0,
-      "inputModuleId": 58,
-      "inputId": 2,
-      "color": "#0c8e15"
     },
     {
       "id": 549,
@@ -2506,14 +2692,6 @@
       "color": "#c9b70e"
     },
     {
-      "id": 592,
-      "outputModuleId": 94,
-      "outputId": 0,
-      "inputModuleId": 87,
-      "inputId": 7,
-      "color": "#0986ad"
-    },
-    {
       "id": 594,
       "outputModuleId": 94,
       "outputId": 1,
@@ -2536,14 +2714,6 @@
       "inputModuleId": 94,
       "inputId": 3,
       "color": "#c91847"
-    },
-    {
-      "id": 595,
-      "outputModuleId": 86,
-      "outputId": 5,
-      "inputModuleId": 94,
-      "inputId": 4,
-      "color": "#0986ad"
     },
     {
       "id": 604,
@@ -2584,6 +2754,158 @@
       "inputModuleId": 96,
       "inputId": 1,
       "color": "#c91847"
+    },
+    {
+      "id": 610,
+      "outputModuleId": 94,
+      "outputId": 0,
+      "inputModuleId": 2,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 611,
+      "outputModuleId": 57,
+      "outputId": 0,
+      "inputModuleId": 2,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 621,
+      "outputModuleId": 103,
+      "outputId": 0,
+      "inputModuleId": 100,
+      "inputId": 3,
+      "color": "#c91847"
+    },
+    {
+      "id": 622,
+      "outputModuleId": 103,
+      "outputId": 1,
+      "inputModuleId": 100,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 619,
+      "outputModuleId": 100,
+      "outputId": 0,
+      "inputModuleId": 104,
+      "inputId": 8,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 623,
+      "outputModuleId": 104,
+      "outputId": 3,
+      "inputModuleId": 97,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 624,
+      "outputModuleId": 104,
+      "outputId": 3,
+      "inputModuleId": 97,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 613,
+      "outputModuleId": 63,
+      "outputId": 1,
+      "inputModuleId": 106,
+      "inputId": 4,
+      "color": "#c91847"
+    },
+    {
+      "id": 630,
+      "outputModuleId": 106,
+      "outputId": 0,
+      "inputModuleId": 105,
+      "inputId": 8,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 632,
+      "outputModuleId": 63,
+      "outputId": 0,
+      "inputModuleId": 106,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 633,
+      "outputModuleId": 106,
+      "outputId": 0,
+      "inputModuleId": 97,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 634,
+      "outputModuleId": 106,
+      "outputId": 0,
+      "inputModuleId": 97,
+      "inputId": 4,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 635,
+      "outputModuleId": 97,
+      "outputId": 0,
+      "inputModuleId": 58,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 636,
+      "outputModuleId": 97,
+      "outputId": 0,
+      "inputModuleId": 58,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 503,
+      "outputModuleId": 65,
+      "outputId": 1,
+      "inputModuleId": 106,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 506,
+      "outputModuleId": 65,
+      "outputId": 0,
+      "inputModuleId": 106,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 626,
+      "outputModuleId": 104,
+      "outputId": 1,
+      "inputModuleId": 105,
+      "inputId": 5,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 638,
+      "outputModuleId": 100,
+      "outputId": 0,
+      "inputModuleId": 4,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 627,
+      "outputModuleId": 104,
+      "outputId": 0,
+      "inputModuleId": 105,
+      "inputId": 4,
+      "color": "#0c8e15"
     }
   ]
 }
